@@ -13,3 +13,4 @@ node_modules/
 
 # Torch cache
 torch_cache/
+*.pth
